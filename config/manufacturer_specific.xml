@@ -660,6 +660,7 @@
 	<Manufacturer id="000c" name="HomeSeer">
 		<Product type="4447" id="3033" name="HS-WS100+ Wall Switch" config="homeseer/hs-ws100plus.xml"/>
 		<Product type="4447" id="3034" name="HS-WD100+ Wall Dimmer" config="homeseer/hs-wd100plus.xml"/>
+		<Product type="4447" id="3036" name="HS-WD200+ Wall Dimmer" config="homeseer/hs-wd200plus.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0030" name="HomeSeer Tech">
 	</Manufacturer>
@@ -785,6 +786,10 @@
 		<Product type="4457" id="3331" name="WD1000Z-1 Wall Dimmer Switch"/>
 		<Product type="4744" id="3030" name="GD00Z-4 Garage Door Opener Remote Controller"/>
 		<Product type="4744" id="3530" name="GD00Z-4 Garage Door Opener Remote Controller"/>
+<<<<<<< HEAD
+=======
+		<Product type="4744" id="3531" name="GD00Z-7 Garage Door Opener Remote Controller"/>
+>>>>>>> refs/remotes/origin/pr/2
 		<Product type="4754" id="3038" name="LB60Z-1 Dimmable LED Light Bulb" config="linear/LB60Z-1.xml"/>
 		<Product type="5246" id="3133" name="FS20Z Isolated Contact Fixture Module"/>
 		<Product type="5250" id="3030" name="PS15Z-2 Plug-in Appliance Module"/>
@@ -1002,8 +1007,8 @@
 		<Product type="0004" id="0051" name="ZMNHJD1 Flush Dimmer Pilot Wire" config="qubino/ZMNHJD1.xml"/>
 		<Product type="0004" id="0052" name="ZMNHUD1 DIN Pilot Wire" config="qubino/ZMNHUD1.xml"/>
 		<Product type="0005" id="0001" name="ZMNHIA2 Flush on/off thermostat" config="qubino/ZMNHIA2.xml"/>
-		<Product type="0005" id="0051" name="ZMNHIDx Flush on/off thermostat (H1S1P1)" config="qubino/ZMNHIDxS1.xml"/>
-		<!--<Product type="0005" id="0051" name="ZMNHIDx Flush on/off thermostat (H1S2P1)" config="qubino/ZMNHIDxS2.xml"/>-->
+		<!--<Product type="0005" id="0051" name="ZMNHIDx Flush on/off thermostat (H1S1P1)" config="qubino/ZMNHIDxS1.xml"/>-->
+		<Product type="0005" id="0051" name="ZMNHIDx Flush on/off thermostat (H1S2P1)" config="qubino/ZMNHIDxS2.xml"/>
 		<Product type="0005" id="0052" name="ZMNHKDx Flush Heat and Cool thermostat" config="qubino/ZMNHKDx.xml"/>
 		<Product type="0005" id="0053" name="ZMNHLDx Flush PWM thermostat" config="qubino/ZMNHLDx.xml"/>
 		<Product type="0005" id="0003" name="ZMNHLA2 Flush PWM thermostat" config="qubino/ZMNHLAx.xml"/>
