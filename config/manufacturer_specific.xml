@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ManufacturerSpecificData xmlns='http://code.google.com/p/open-zwave/'>
 	<Manufacturer id="0040" name="2B Electronics">
 	</Manufacturer>
@@ -786,10 +786,7 @@
 		<Product type="4457" id="3331" name="WD1000Z-1 Wall Dimmer Switch"/>
 		<Product type="4744" id="3030" name="GD00Z-4 Garage Door Opener Remote Controller"/>
 		<Product type="4744" id="3530" name="GD00Z-4 Garage Door Opener Remote Controller"/>
-<<<<<<< HEAD
-=======
 		<Product type="4744" id="3531" name="GD00Z-7 Garage Door Opener Remote Controller"/>
->>>>>>> refs/remotes/origin/pr/2
 		<Product type="4754" id="3038" name="LB60Z-1 Dimmable LED Light Bulb" config="linear/LB60Z-1.xml"/>
 		<Product type="5246" id="3133" name="FS20Z Isolated Contact Fixture Module"/>
 		<Product type="5250" id="3030" name="PS15Z-2 Plug-in Appliance Module"/>
