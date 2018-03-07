@@ -93,6 +93,7 @@ DISTFILES =	.gitignore \
 	config/assa_abloy/TouchDeadbolt.xml \
 	config/assa_abloy/TouchLever.xml \
 	config/assa_abloy/nexTouch.xml \
+	config/august/asl-03.xml \
 	config/cooper/RF9501.xml \
 	config/cooper/RF9505-T.xml \
 	config/cooper/RF9517.xml \
@@ -409,6 +410,7 @@ DISTFILES =	.gitignore \
 	config/schlagelink/itemp.xml \
 	config/schlagelink/minikeypad.xml \
 	config/sensative/strips.xml \
+	config/sensative/stripsconfort.xml \
 	config/shenzen_neo/ls01ch.xml \
 	config/shenzen_neo/ls02ch.xml \
 	config/shenzen_neo/nas-ab01z.xml \
